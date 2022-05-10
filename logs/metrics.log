@@ -1,0 +1,58 @@
+09-05-2022 21:28:24 -> Metricas -> INFO: Prueba técnica Lulo Bank
+09-05-2022 21:28:24 -> Metricas -> INFO: Ejecutando etapa metrics
+09-05-2022 21:28:24 -> Metricas -> INFO: 9. Iniciando etapa de cálculo de métricas ...
+09-05-2022 21:28:24 -> Metricas -> INFO: ----------
+09-05-2022 21:28:24 -> Metricas -> INFO: 9.1. Leyendo data limpia del mes completo ...
+09-05-2022 21:28:24 -> Metricas -> INFO: 9.1. Data leída correctamente
+09-05-2022 21:28:24 -> Metricas -> INFO: ----------
+09-05-2022 21:28:24 -> Metricas -> INFO: 9.2. Calculando metricas de runtime de todas las series  ...
+09-05-2022 21:28:24 -> Metricas -> INFO: 9.2. La media de runtime de las series es: 37.94830188679245 minutos
+09-05-2022 21:28:24 -> Metricas -> INFO: ----------
+09-05-2022 21:28:24 -> Metricas -> INFO: 9.3. Contando los generos de todas las series  ...
+09-05-2022 21:28:24 -> Metricas -> INFO: 9.3.1. Tabla de generos de las series:
+09-05-2022 21:28:24 -> Metricas -> INFO: Genero
+['Action', 'Adventure', 'Anime', 'Fantasy']             17
+['Action', 'Adventure', 'Anime', 'Science-Fiction']      3
+['Action', 'Adventure', 'Fantasy']                      10
+['Action', 'Adventure', 'Science-Fiction']              11
+['Action', 'Anime', 'Fantasy']                           5
+                                                      ... 
+['Science-Fiction', 'Thriller', 'Mystery']               5
+['Sports']                                              44
+['Travel']                                              16
+['War', 'History']                                      24
+[]                                                     696
+Name: Total, Length: 151, dtype: int64
+09-05-2022 21:28:24 -> Metricas -> INFO: 9.3.2. Tabla de tipos de las series:
+09-05-2022 21:28:24 -> Metricas -> INFO: Tipo
+Animation       342
+Award Show        6
+Documentary     304
+Game Show        42
+News             56
+Panel Show        2
+Reality         247
+Scripted       1515
+Sports           71
+Talk Show       224
+Variety          63
+Name: Total, dtype: int64
+09-05-2022 21:28:24 -> Metricas -> INFO: ----------
+09-05-2022 21:28:24 -> Metricas -> INFO: 9.4. Listando los dominios web del sitio oficial de las series  ...
+09-05-2022 21:28:24 -> Metricas -> INFO:            ID  ...                                          Sitio Web
+0     1979824  ...                  https://www.vlive.tv/video/121637
+1     1979222  ...                http://epic-media.ru/project/kotiki
+2     2008027  ...  https://hd.kinopoisk.ru/film/41a971dd517a30f9b...
+3     1964565  ...  https://www.bilibili.com/bangumi/media/md28223064
+4     2052503  ...     https://v.qq.com/detail/m/7q544xyrava3vxf.html
+...       ...  ...                                                ...
+2867  2005098  ...     https://www.bet.plus/shows/the-family-business
+2868  2005099  ...     https://www.bet.plus/shows/the-family-business
+2869  2005100  ...     https://www.bet.plus/shows/the-family-business
+2870  2005101  ...     https://www.bet.plus/shows/the-family-business
+2871  2005102  ...     https://www.bet.plus/shows/the-family-business
+
+[2872 rows x 4 columns]
+09-05-2022 21:28:24 -> Metricas -> INFO: ----------
+09-05-2022 21:28:24 -> Metricas -> INFO: 9. Etapa concluida correctamente
+09-05-2022 21:28:24 -> Metricas -> INFO: Duración de la etapa: 00:00:00.14

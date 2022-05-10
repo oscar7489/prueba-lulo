@@ -1,0 +1,51 @@
+_embedded_show_schedule_time,_embedded_show_schedule_days
+12:00,['Monday']
+10:00,['Sunday']
+10:00,['Wednesday']
+10:00,"['Tuesday', 'Sunday']"
+,['Sunday']
+,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']"
+,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']"
+20:20,['Sunday']
+06:00,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']"
+,['Sunday']
+,['Sunday']
+,['Sunday']
+,['Sunday']
+,['Sunday']
+,['Sunday']
+17:00,"['Thursday', 'Sunday']"
+,['Friday']
+,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']"
+,['Sunday']
+,['Sunday']
+,[]
+14:00,['Sunday']
+,[]
+,['Sunday']
+,[]
+,['Sunday']
+,[]
+,['Thursday']
+,['Sunday']
+,['Saturday']
+,['Sunday']
+,['Sunday']
+,"['Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']"
+,"['Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']"
+20:00,"['Monday', 'Sunday']"
+20:00,"['Monday', 'Sunday']"
+,['Sunday']
+,[]
+,['Sunday']
+,['Thursday']
+,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Sunday']"
+,['Sunday']
+10:00,['Wednesday']
+,['Sunday']
+22:30,['Sunday']
+,['Sunday']
+22:15,['Sunday']
+20:00,['Sunday']
+20:00,['Saturday']
+20:00,['Sunday']

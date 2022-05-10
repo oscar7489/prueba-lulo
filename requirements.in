@@ -1,0 +1,6 @@
+requests
+pandas
+numpy
+click
+pyarrow
+pandas-profiling

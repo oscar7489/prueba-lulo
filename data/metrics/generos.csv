@@ -1,0 +1,152 @@
+Genero,Total
+"['Action', 'Adventure', 'Anime', 'Fantasy']",17
+"['Action', 'Adventure', 'Anime', 'Science-Fiction']",3
+"['Action', 'Adventure', 'Fantasy']",10
+"['Action', 'Adventure', 'Science-Fiction']",11
+"['Action', 'Anime', 'Fantasy']",5
+"['Action', 'Anime', 'Science-Fiction', 'War']",3
+"['Action', 'Anime', 'Science-Fiction']",9
+"['Action', 'Anime', 'Supernatural']",4
+"['Action', 'Children', 'Family']",8
+"['Action', 'Crime', 'Thriller']",15
+"['Action', 'Family']",6
+"['Action', 'Science-Fiction']",5
+['Action'],5
+"['Adventure', 'Anime', 'Fantasy']",5
+"['Adventure', 'Children', 'Fantasy']",15
+"['Adventure', 'Children']",7
+"['Adventure', 'Family', 'Fantasy']",3
+"['Adventure', 'Fantasy']",4
+"['Adventure', 'Nature']",3
+"['Adventure', 'Travel']",6
+['Adventure'],5
+"['Anime', 'Fantasy', 'Romance']",9
+"['Anime', 'Music']",4
+"['Anime', 'Science-Fiction']",4
+"['Anime', 'Supernatural']",9
+['Anime'],16
+"['Children', 'Family']",16
+"['Children', 'Music']",10
+"['Children', 'Nature']",1
+['Children'],23
+"['Comedy', 'Action', 'Adventure', 'Anime']",7
+"['Comedy', 'Action', 'Adventure']",4
+"['Comedy', 'Action', 'Anime', 'Fantasy']",5
+"['Comedy', 'Action', 'Crime']",3
+"['Comedy', 'Action']",2
+"['Comedy', 'Adventure', 'Children']",6
+"['Comedy', 'Adventure', 'Fantasy']",18
+"['Comedy', 'Adventure']",1
+"['Comedy', 'Anime', 'Fantasy', 'Romance']",4
+"['Comedy', 'Anime', 'History', 'Supernatural']",4
+"['Comedy', 'Anime', 'Science-Fiction']",6
+"['Comedy', 'Anime', 'Supernatural']",3
+"['Comedy', 'Anime']",3
+"['Comedy', 'Children', 'DIY']",2
+"['Comedy', 'Children', 'Music']",3
+"['Comedy', 'Children']",41
+"['Comedy', 'Crime', 'Mystery']",4
+"['Comedy', 'Family', 'Music']",1
+"['Comedy', 'Family']",9
+"['Comedy', 'Fantasy', 'Horror']",1
+"['Comedy', 'Fantasy', 'Mystery']",3
+"['Comedy', 'Fantasy', 'Romance']",41
+"['Comedy', 'Food', 'DIY']",2
+"['Comedy', 'Food', 'Travel']",1
+"['Comedy', 'Food']",7
+"['Comedy', 'Horror']",16
+"['Comedy', 'Music', 'Science-Fiction']",4
+"['Comedy', 'Music', 'Travel']",4
+"['Comedy', 'Music']",9
+"['Comedy', 'Romance']",13
+"['Comedy', 'Sports']",4
+"['Comedy', 'Supernatural']",1
+['Comedy'],259
+"['Crime', 'Horror', 'Thriller']",8
+"['Crime', 'Mystery']",7
+"['Crime', 'Science-Fiction', 'Mystery']",8
+"['Crime', 'Thriller', 'Mystery']",30
+['Crime'],61
+"['Drama', 'Action', 'Crime']",46
+"['Drama', 'Action', 'History']",4
+"['Drama', 'Action', 'Romance']",2
+"['Drama', 'Action', 'Thriller']",22
+"['Drama', 'Action', 'War']",1
+"['Drama', 'Adult']",8
+"['Drama', 'Adventure', 'History']",5
+"['Drama', 'Adventure', 'Mystery']",14
+"['Drama', 'Adventure', 'Science-Fiction']",5
+"['Drama', 'Anime', 'Fantasy', 'Romance']",4
+"['Drama', 'Anime', 'Romance']",6
+"['Drama', 'Children', 'Family']",24
+"['Drama', 'Children', 'Music']",4
+"['Drama', 'Comedy', 'Action']",8
+"['Drama', 'Comedy', 'Adult']",11
+"['Drama', 'Comedy', 'Adventure']",24
+"['Drama', 'Comedy', 'Children']",5
+"['Drama', 'Comedy', 'Crime']",10
+"['Drama', 'Comedy', 'Family']",3
+"['Drama', 'Comedy', 'Food']",2
+"['Drama', 'Comedy', 'Romance']",84
+"['Drama', 'Comedy', 'Science-Fiction']",1
+"['Drama', 'Comedy', 'Thriller']",5
+"['Drama', 'Comedy']",63
+"['Drama', 'Crime', 'Family']",10
+"['Drama', 'Crime', 'Mystery']",20
+"['Drama', 'Crime', 'Romance']",4
+"['Drama', 'Crime', 'Supernatural']",6
+"['Drama', 'Crime', 'Thriller']",36
+"['Drama', 'Crime']",6
+"['Drama', 'Family', 'Music']",9
+"['Drama', 'Family', 'Mystery']",6
+"['Drama', 'Fantasy', 'Mystery']",22
+"['Drama', 'Fantasy', 'Romance']",8
+"['Drama', 'Fantasy']",24
+"['Drama', 'Food', 'Romance']",6
+"['Drama', 'History']",1
+"['Drama', 'Horror', 'Supernatural']",3
+"['Drama', 'Horror', 'Thriller']",8
+"['Drama', 'Medical']",2
+"['Drama', 'Music', 'Romance']",10
+"['Drama', 'Romance', 'History']",71
+"['Drama', 'Romance', 'Mystery']",19
+"['Drama', 'Romance', 'Supernatural']",4
+"['Drama', 'Romance']",258
+"['Drama', 'Science-Fiction', 'Mystery']",8
+"['Drama', 'Science-Fiction', 'Thriller']",1
+"['Drama', 'Science-Fiction']",6
+"['Drama', 'Supernatural']",3
+"['Drama', 'Thriller', 'Mystery']",50
+"['Drama', 'Thriller', 'Supernatural']",6
+"['Drama', 'Thriller']",12
+"['Drama', 'War', 'History']",2
+['Drama'],81
+"['Family', 'Sports']",2
+['Family'],4
+['Fantasy'],1
+"['Food', 'Nature']",2
+"['Food', 'Travel']",1
+['Food'],25
+"['History', 'Sports']",4
+['History'],4
+"['Horror', 'Romance', 'Supernatural']",8
+"['Horror', 'Science-Fiction', 'Thriller']",10
+"['Horror', 'Supernatural']",4
+"['Horror', 'Thriller', 'Mystery']",4
+"['Horror', 'Thriller', 'Supernatural']",1
+['Horror'],5
+['Legal'],2
+"['Medical', 'Sports', 'Legal']",3
+['Medical'],5
+"['Music', 'History']",8
+['Music'],42
+['Mystery'],12
+"['Nature', 'History']",6
+['Nature'],6
+['Romance'],15
+"['Science-Fiction', 'Nature']",4
+"['Science-Fiction', 'Thriller', 'Mystery']",5
+['Sports'],44
+['Travel'],16
+"['War', 'History']",24
+[],696

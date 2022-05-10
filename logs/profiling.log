@@ -1,0 +1,164 @@
+09-05-2022 20:58:50 -> Reporte -> INFO: Prueba técnica Lulo Bank
+09-05-2022 20:58:50 -> Reporte -> INFO: Ejecutando etapa profiling
+09-05-2022 20:58:50 -> Reporte -> INFO: 8. Iniciando etapa de creación de reporte ...
+09-05-2022 20:58:50 -> Reporte -> INFO: ----------
+09-05-2022 20:58:50 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-01 ...
+09-05-2022 20:58:50 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 20:58:50 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-01
+09-05-2022 20:59:41 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 20:59:41 -> Reporte -> INFO: ----------
+09-05-2022 20:59:41 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-02 ...
+09-05-2022 20:59:41 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 20:59:41 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-02
+09-05-2022 21:00:20 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:00:20 -> Reporte -> INFO: ----------
+09-05-2022 21:00:20 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-03 ...
+09-05-2022 21:00:20 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:00:20 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-03
+09-05-2022 21:01:08 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:01:08 -> Reporte -> INFO: ----------
+09-05-2022 21:01:08 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-04 ...
+09-05-2022 21:01:08 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:01:08 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-04
+09-05-2022 21:02:11 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:02:11 -> Reporte -> INFO: ----------
+09-05-2022 21:02:11 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-05 ...
+09-05-2022 21:02:11 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:02:11 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-05
+09-05-2022 21:02:53 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:02:53 -> Reporte -> INFO: ----------
+09-05-2022 21:02:53 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-06 ...
+09-05-2022 21:02:53 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:02:53 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-06
+09-05-2022 21:03:33 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:03:33 -> Reporte -> INFO: ----------
+09-05-2022 21:03:33 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-07 ...
+09-05-2022 21:03:33 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:03:33 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-07
+09-05-2022 21:04:11 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:04:11 -> Reporte -> INFO: ----------
+09-05-2022 21:04:11 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-08 ...
+09-05-2022 21:04:11 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:04:11 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-08
+09-05-2022 21:04:48 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:04:48 -> Reporte -> INFO: ----------
+09-05-2022 21:04:48 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-09 ...
+09-05-2022 21:04:48 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:04:48 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-09
+09-05-2022 21:05:48 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:05:48 -> Reporte -> INFO: ----------
+09-05-2022 21:05:48 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-10 ...
+09-05-2022 21:05:48 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:05:48 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-10
+09-05-2022 21:07:39 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:07:39 -> Reporte -> INFO: ----------
+09-05-2022 21:07:39 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-11 ...
+09-05-2022 21:07:39 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:07:39 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-11
+09-05-2022 21:09:04 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:09:04 -> Reporte -> INFO: ----------
+09-05-2022 21:09:04 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-12 ...
+09-05-2022 21:09:04 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:09:04 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-12
+09-05-2022 21:10:02 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:10:02 -> Reporte -> INFO: ----------
+09-05-2022 21:10:02 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-13 ...
+09-05-2022 21:10:02 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:10:02 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-13
+09-05-2022 21:10:57 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:10:57 -> Reporte -> INFO: ----------
+09-05-2022 21:10:57 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-14 ...
+09-05-2022 21:10:57 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:10:57 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-14
+09-05-2022 21:12:32 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:12:32 -> Reporte -> INFO: ----------
+09-05-2022 21:12:32 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-15 ...
+09-05-2022 21:12:32 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:12:32 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-15
+09-05-2022 21:14:08 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:14:08 -> Reporte -> INFO: ----------
+09-05-2022 21:14:08 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-16 ...
+09-05-2022 21:14:08 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:14:08 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-16
+09-05-2022 21:15:11 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:15:11 -> Reporte -> INFO: ----------
+09-05-2022 21:15:11 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-17 ...
+09-05-2022 21:15:11 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:15:11 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-17
+09-05-2022 21:16:13 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:16:13 -> Reporte -> INFO: ----------
+09-05-2022 21:16:13 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-18 ...
+09-05-2022 21:16:13 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:16:13 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-18
+09-05-2022 21:17:01 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:17:01 -> Reporte -> INFO: ----------
+09-05-2022 21:17:01 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-19 ...
+09-05-2022 21:17:01 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:17:01 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-19
+09-05-2022 21:17:28 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:17:28 -> Reporte -> INFO: ----------
+09-05-2022 21:17:28 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-20 ...
+09-05-2022 21:17:28 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:17:28 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-20
+09-05-2022 21:17:59 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:17:59 -> Reporte -> INFO: ----------
+09-05-2022 21:17:59 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-21 ...
+09-05-2022 21:17:59 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:17:59 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-21
+09-05-2022 21:18:37 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:18:37 -> Reporte -> INFO: ----------
+09-05-2022 21:18:37 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-22 ...
+09-05-2022 21:18:37 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:18:37 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-22
+09-05-2022 21:19:18 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:19:18 -> Reporte -> INFO: ----------
+09-05-2022 21:19:18 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-23 ...
+09-05-2022 21:19:18 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:19:18 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-23
+09-05-2022 21:19:56 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:19:56 -> Reporte -> INFO: ----------
+09-05-2022 21:19:56 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-24 ...
+09-05-2022 21:19:56 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:19:56 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-24
+09-05-2022 21:20:40 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:20:40 -> Reporte -> INFO: ----------
+09-05-2022 21:20:40 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-25 ...
+09-05-2022 21:20:40 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:20:40 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-25
+09-05-2022 21:21:29 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:21:29 -> Reporte -> INFO: ----------
+09-05-2022 21:21:29 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-26 ...
+09-05-2022 21:21:29 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:21:29 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-26
+09-05-2022 21:21:58 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:21:58 -> Reporte -> INFO: ----------
+09-05-2022 21:21:58 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-27 ...
+09-05-2022 21:21:58 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:21:58 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-27
+09-05-2022 21:22:25 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:22:25 -> Reporte -> INFO: ----------
+09-05-2022 21:22:25 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-28 ...
+09-05-2022 21:22:25 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:22:25 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-28
+09-05-2022 21:23:02 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:23:02 -> Reporte -> INFO: ----------
+09-05-2022 21:23:02 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-29 ...
+09-05-2022 21:23:02 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:23:02 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-29
+09-05-2022 21:23:35 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:23:35 -> Reporte -> INFO: ----------
+09-05-2022 21:23:35 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-30 ...
+09-05-2022 21:23:35 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:23:35 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-30
+09-05-2022 21:24:16 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:24:16 -> Reporte -> INFO: ----------
+09-05-2022 21:24:16 -> Reporte -> INFO: 8.1. Leyendo la data limpia para la fecha: 2020-12-31 ...
+09-05-2022 21:24:16 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:24:16 -> Reporte -> INFO: 8.2. Creando reporte para el día: 2020-12-31
+09-05-2022 21:24:59 -> Reporte -> INFO: 8.2. Reporte creado correctamente
+09-05-2022 21:24:59 -> Reporte -> INFO: 8.3. Leyendo data limpia del mes completo
+09-05-2022 21:24:59 -> Reporte -> INFO: Data leída correctamente
+09-05-2022 21:24:59 -> Reporte -> INFO: 8.4. Creando reporte para el mes completo
+09-05-2022 21:27:00 -> Reporte -> INFO: 8.4. Reporte creado correctamente
+09-05-2022 21:27:00 -> Reporte -> INFO: 8. Etapa concluida correctamente
+09-05-2022 21:27:00 -> Reporte -> INFO: Duración de la etapa: 00:28:10.20

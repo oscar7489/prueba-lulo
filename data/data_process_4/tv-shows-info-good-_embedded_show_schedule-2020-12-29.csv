@@ -1,0 +1,74 @@
+_embedded_show_schedule_time,_embedded_show_schedule_days
+,['Monday']
+,[]
+23:45,['Saturday']
+10:00,['Tuesday']
+10:00,"['Tuesday', 'Sunday']"
+,"['Tuesday', 'Wednesday']"
+,"['Tuesday', 'Wednesday']"
+,"['Thursday', 'Friday', 'Saturday']"
+,"['Thursday', 'Friday', 'Saturday']"
+,['Tuesday']
+,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']"
+,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']"
+19:00,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']"
+,"['Tuesday', 'Friday']"
+08:00,['Sunday']
+,[]
+,[]
+,[]
+,[]
+,[]
+,[]
+,[]
+17:00,"['Tuesday', 'Friday']"
+,"['Monday', 'Tuesday', 'Wednesday', 'Thursday']"
+,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']"
+,[]
+,[]
+,[]
+,[]
+,[]
+,[]
+,[]
+,[]
+,['Tuesday']
+,['Tuesday']
+,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']"
+,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday']"
+,[]
+,['Tuesday']
+,['Monday']
+,['Tuesday']
+,['Tuesday']
+,"['Monday', 'Tuesday', 'Wednesday', 'Thursday']"
+,['Friday']
+,['Tuesday']
+20:00,"['Monday', 'Tuesday', 'Wednesday']"
+20:00,"['Monday', 'Tuesday', 'Wednesday']"
+20:00,"['Tuesday', 'Wednesday']"
+20:00,"['Tuesday', 'Wednesday']"
+,"['Tuesday', 'Friday']"
+20:00,"['Monday', 'Tuesday', 'Wednesday']"
+20:00,"['Monday', 'Tuesday', 'Wednesday']"
+,['Tuesday']
+,"['Monday', 'Tuesday']"
+,"['Monday', 'Tuesday']"
+,"['Monday', 'Tuesday']"
+,"['Monday', 'Tuesday']"
+,[]
+,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']"
+,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']"
+,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Sunday']"
+,[]
+,"['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Sunday']"
+22:00,['Tuesday']
+,['Tuesday']
+,['Tuesday']
+19:00,['Wednesday']
+18:00,['Saturday']
+20:00,"['Monday', 'Tuesday', 'Wednesday', 'Thursday']"
+21:00,['Tuesday']
+21:00,['Tuesday']
+21:00,['Tuesday']
+21:00,['Tuesday']
